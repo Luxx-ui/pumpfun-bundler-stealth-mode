@@ -1,0 +1,27 @@
+[package]
+name = "pumpfun-bundler-stealth"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+reqwest = { version = "0.11", features = ["json"] }
+solana-client = "1.17"
+solana-sdk = "1.17"
+solana-transaction-status = "1.17"
+anchor-lang = "0.29"
+anchor-client = "0.29"
+anyhow = "1.0"
+thiserror = "1.0"
+log = "0.4"
+env_logger = "0.10"
+clap = { version = "4.0", features = ["derive"] }
+rand = "0.8"
+base64 = "0.21"
+hex = "0.4"
+bs58 = "0.5"
+uuid = { version = "1.0", features = ["v4"] }
+chrono = { version = "0.4", features = ["serde"] }
+url = "2.4"
